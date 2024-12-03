@@ -20,4 +20,4 @@ def td(left_list, right_list):
 file_path = "day1.txt" 
 left_list, right_list = input(file_path)
 result = td(left_list, right_list)
-print(f"Total distance: {result}")
+print(f"distance: {result}")
