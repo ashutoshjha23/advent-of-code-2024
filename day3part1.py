@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import re
 
 def sum(file_path):
@@ -24,7 +23,7 @@ if __name__ == "__main__":
     file_path = "day3.txt"  
     result =sum(file_path)
     print(f"total: {result}")
-=======
+
 import re
 
 def sum(file_path):
@@ -50,4 +49,3 @@ if __name__ == "__main__":
     file_path = "day3.txt"  
     result =sum(file_path)
     print(f"total: {result}")
->>>>>>> 4807f15de93ff62b15742458b379a60c108eb975
