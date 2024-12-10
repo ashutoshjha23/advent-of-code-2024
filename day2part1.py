@@ -28,3 +28,4 @@ def count(file_path):
 file_path = "day2.txt" 
 reports = count(file_path)
 print(f"Num: {reports}")
+
