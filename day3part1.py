@@ -49,3 +49,4 @@ if __name__ == "__main__":
     file_path = "day3.txt"  
     result =sum(file_path)
     print(f"total: {result}")
+w
