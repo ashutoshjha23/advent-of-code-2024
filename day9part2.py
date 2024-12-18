@@ -9,8 +9,7 @@ with open(r"day9.txt", "r") as file:
     new = [i for sub in itertools.zip_longest(ids, empty) for i in sub]
     del new[-1]
     print(new)
-    i = len(new)-1
-    
+    i = len(new)-1  
     def merge():
         x=0
         while x< len(new)-1:
